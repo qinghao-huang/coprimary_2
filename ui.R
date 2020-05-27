@@ -2,7 +2,7 @@
 library(mvtnorm)
 ui <- fluidPage(
   # App title ----
-  titlePanel("sample size determinationa in superiority clinical trail"),
+  titlePanel("sample size determinationa in superiority clinical trail for K=2"),
   
   # Sidebar layout with a input and output definitions ----
   sidebarLayout(
